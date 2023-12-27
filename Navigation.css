@@ -1,0 +1,40 @@
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    padding: 20px 20px;
+    gap: 20px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+body{
+    margin: 0px;
+}
+header{
+    display: flex;
+    background-color: aqua;
+    padding: 20px;
+    margin-top: 20px;
+}
+#left{
+    display: flex;
+    justify-content: left;
+    background-color: chocolate;
+}
+#cent{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap: 20px;
+    font-size: 20px;
+}
+#right{
+    padding: 40px;
+    display: flex;
+    justify-content: right;
+    font-size: 20px;
+}
